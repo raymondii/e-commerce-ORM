@@ -9,7 +9,7 @@ Navigate to the project directory: cd e-commerce-ORM
 Install dependencies: npm install
 
 # Usage
-Start the server: npm start
+Video Instructions: https://drive.google.com/file/d/1_hfiG3eHRI_rbscC1wB8PULsBhXA8ktk/view?usp=sharing
 
 # API Routes
 Categories:
